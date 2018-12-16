@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title">Do you really know a lot about me! let us see.</string>
+
+    <string name="answer1">Muklah</string>
+    <string name="answer2a">Red</string>
+    <string name="answer2b">Blue</string>
+    <string name="answer2c">Pink</string>
+    <string name="answer3a">2.5</string>
+    <string name="answer3b">4</string>
+    <string name="answer3c">5</string>
+    <string name="answer4a">Web</string>
+    <string name="answer4b">Android</string>
+    <string name="answer4c">Ios</string>
+
+    <string name="question1">1- What is my first name?</string>
+    <string name="question2">2- What is my favorite color?</string>
+    <string name="question3">3- How many years I spent in android programming?</string>
+    <string name="question4">4- I am a developer of?</string>
+
+    <string name="button">Submit</string>
+
+    <string name="correct">Correct Answers:</string>
+    <string name="recorrect">Recorrect these answers:</string>
+    <string name="four">/4</string>
+
+    <string name="ans1">Answer 1</string>
+    <string name="ans2">Answer 2</string>
+    <string name="ans3">Answer 3</string>
+    <string name="ans4">Answer 4</string>
+
+</resources>
